@@ -16,4 +16,8 @@ Git
 \f1\b \cf4 \expnd0\expndtw0\kerning0
 is
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
- free software distributed under the GPL.}
+ free software distributed under the GPL.\
+\pard\pardeftab720
+\cf2 \cb3 \expnd0\expndtw0\kerning0
+Git has a mutable index called stage.\
+}
