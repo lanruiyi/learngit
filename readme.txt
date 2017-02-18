@@ -12,10 +12,8 @@ Git
 is
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
  a distributed version control system.\
-\pard\pardeftab720
-\cf2 \cb3 \expnd0\expndtw0\kerning0
 Git 
 \f1\b \cf4 \expnd0\expndtw0\kerning0
 is
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
- free software.}
+ free software distributed under the GPL.}
